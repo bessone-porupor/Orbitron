@@ -223,4 +223,4 @@ Orbitron is a full version software offering all features and updates included f
 Start your journey into satellite tracking today—**download Orbitron for free now!**
 
 ---
-**Last updated:** 2026-10-18 07:34:37 UTC
+**Last updated:** 2026-10-18 12:18:02 UTC
